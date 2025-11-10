@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07b1dac2ab6155f41bb5236f61373a0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/demo/LightingData.asset
+  uploadId: 789432
