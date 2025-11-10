@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c2fc3e0c0b26a645bb953eec7da97c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/duct1.prefab
+  uploadId: 789432

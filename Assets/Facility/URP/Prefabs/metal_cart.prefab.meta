@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc0afe78ccd18b74bb47d23d3e7058ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/metal_cart.prefab
+  uploadId: 789432

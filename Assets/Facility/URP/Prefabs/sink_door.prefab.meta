@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f42b1138ed223474da9dd01d16c96854
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/sink_door.prefab
+  uploadId: 789432

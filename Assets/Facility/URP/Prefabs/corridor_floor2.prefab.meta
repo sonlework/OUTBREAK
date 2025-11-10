@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6991a1826f83fd48926a0be8efe01ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/corridor_floor2.prefab
+  uploadId: 789432

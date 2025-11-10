@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63a229e6b1d855249b9c31a4f56c9e1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/pipes_cables.mat
+  uploadId: 789432

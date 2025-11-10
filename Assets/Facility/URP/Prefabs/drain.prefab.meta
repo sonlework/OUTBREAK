@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dd77ff40d6b7214b90e1b293cf0604b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/drain.prefab
+  uploadId: 789432

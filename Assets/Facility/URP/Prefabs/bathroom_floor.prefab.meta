@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22c323f6b49f3194ead542fdb6672270
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/bathroom_floor.prefab
+  uploadId: 789432

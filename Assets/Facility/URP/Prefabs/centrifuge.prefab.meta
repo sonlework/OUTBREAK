@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 728e70fecd4254845926a4b87ce2894f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/centrifuge.prefab
+  uploadId: 789432

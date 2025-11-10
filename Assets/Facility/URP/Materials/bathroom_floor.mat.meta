@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87bd392c0ed7d0542a986342f136134e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/bathroom_floor.mat
+  uploadId: 789432

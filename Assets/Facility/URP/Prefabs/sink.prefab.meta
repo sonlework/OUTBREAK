@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbc67bca476e69d4bbe0d0d7496fbf6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/sink.prefab
+  uploadId: 789432

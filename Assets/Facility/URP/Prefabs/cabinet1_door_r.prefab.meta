@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 828ed61c438ef4f41bafd6edb7e4bc6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/cabinet1_door_r.prefab
+  uploadId: 789432

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da89e69a319e3674ab119053dcd9438a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/debri1.mat
+  uploadId: 789432

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6c9bb8031219c34ea8322219dc6f382
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/central_table_drawer.prefab
+  uploadId: 789432

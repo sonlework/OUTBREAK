@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 990c95d311ac165428b2f1b1a134ed12
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/furniture4.mat
+  uploadId: 789432

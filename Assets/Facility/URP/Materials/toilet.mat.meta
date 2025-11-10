@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75d8bc1347274c3488cbd8c386addedd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/toilet.mat
+  uploadId: 789432

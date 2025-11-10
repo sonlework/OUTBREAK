@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7809fdb99b9ef3949855f80a4605eb5d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/padded_cell_door.prefab
+  uploadId: 789432

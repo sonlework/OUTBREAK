@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73ceb7fbc1400c940a4801cecadf3b87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/showcase/GlobalVolumeProfile.asset
+  uploadId: 789432

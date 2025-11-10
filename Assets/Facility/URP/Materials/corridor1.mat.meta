@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7fe9a2dfb8162840a766afa38278bad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/corridor1.mat
+  uploadId: 789432

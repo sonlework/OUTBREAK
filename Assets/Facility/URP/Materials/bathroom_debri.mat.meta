@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad7f43502671f2d4793d6c8e66903c27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/bathroom_debri.mat
+  uploadId: 789432

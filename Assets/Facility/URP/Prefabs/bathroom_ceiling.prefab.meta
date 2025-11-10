@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cd969b3777901b4595c0d5cd477a3d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/bathroom_ceiling.prefab
+  uploadId: 789432

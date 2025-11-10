@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29f959b4bef6bdc44b7eb3125b4c2028
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Materials/doors2.mat
+  uploadId: 789432

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98fad137a89b43643ad51ed2ce937d8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/microscope.prefab
+  uploadId: 789432

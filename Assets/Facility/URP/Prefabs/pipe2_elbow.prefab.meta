@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b78a19528cce94c45adcadf45804a15a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/pipe2_elbow.prefab
+  uploadId: 789432

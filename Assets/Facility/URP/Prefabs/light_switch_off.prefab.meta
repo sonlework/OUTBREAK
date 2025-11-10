@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00b74c960ebda2d47a5a7e4cb77f9724
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/light_switch_off.prefab
+  uploadId: 789432

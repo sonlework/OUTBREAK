@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36b0530293f61f649bf9b55448a2a9c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/monitor.prefab
+  uploadId: 789432

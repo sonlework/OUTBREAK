@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09f19cb5d1ac8404e9df434774ab7f75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333550
+  packageName: Abandoned Lab Facility
+  packageVersion: 1.0
+  assetPath: Assets/Facility/URP/Prefabs/pillar.prefab
+  uploadId: 789432
